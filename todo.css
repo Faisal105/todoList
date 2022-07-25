@@ -1,0 +1,6 @@
+body {
+	background-color: #eee;
+}
+p.done {
+	text-decoration: line-through;
+}
